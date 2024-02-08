@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolate", "Interpolate.csproj", "{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Debug|x64.ActiveCfg = Debug|x64
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Debug|x64.Build.0 = Debug|x64
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Debug|x86.ActiveCfg = Debug|x86
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Debug|x86.Build.0 = Debug|x86
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Release|x64.ActiveCfg = Release|x64
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Release|x64.Build.0 = Release|x64
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Release|x86.ActiveCfg = Release|x86
+		{59AC3563-1BEE-4FC3-A3D4-4805AF54AC50}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D9CEBE-D44B-4508-BF7D-488FE0E6DB1B}
+	EndGlobalSection
+EndGlobal

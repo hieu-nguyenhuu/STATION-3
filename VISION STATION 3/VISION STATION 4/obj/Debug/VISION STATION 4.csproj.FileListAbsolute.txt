@@ -1,0 +1,45 @@
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\dll\x86\opencv_videoio_ffmpeg480.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\dll\x64\opencv_videoio_ffmpeg480_64.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\StPictureBox.resx
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\StPictureBox.cs
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\StPictureBox.designer.cs
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\VISION STATION 4.exe.config
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\VISION STATION 4.exe
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\VISION STATION 4.pdb
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\EasyModbus.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\GenApiDotNet40_v3_4.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\Newtonsoft.Json.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\NumpyDotNet.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\OpenCvSharp.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\OpenCvSharp.Extensions.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\StApiDotNet40_v1_2.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Buffers.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Drawing.Common.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Memory.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Numerics.Vectors.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\zxing.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\zxing.presentation.dll
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\EasyModbus.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\Newtonsoft.Json.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\NumpyDotNet.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\OpenCvSharp.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\OpenCvSharp.Extensions.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Buffers.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Drawing.Common.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Memory.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Numerics.Vectors.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\zxing.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\bin\Debug\zxing.presentation.xml
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.csproj.AssemblyReference.cache
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION_STATION_4.frmMain1.resources
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION_STATION_4.Properties.Resources.resources
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION_STATION_4.StPictureBox.resources
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.csproj.GenerateResource.cache
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.csproj.CoreCompileInputs.cache
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.csproj.CopyComplete
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.exe
+D:\YaskawaProject\VISION STATION ALL\VisionPC\VISION STATION 4\VISION STATION 4\obj\Debug\VISION STATION 4.pdb

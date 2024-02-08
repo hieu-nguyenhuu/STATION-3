@@ -1,0 +1,9 @@
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\bin\x64\Debug\Positioning.exe.config
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\bin\x64\Debug\Positioning.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\bin\x64\Debug\Positioning.pdb
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.csproj.AssemblyReference.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.Properties.Resources.resources
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.csproj.GenerateResource.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.csproj.CoreCompileInputs.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\Positioning\obj\x64\Debug\Positioning.pdb

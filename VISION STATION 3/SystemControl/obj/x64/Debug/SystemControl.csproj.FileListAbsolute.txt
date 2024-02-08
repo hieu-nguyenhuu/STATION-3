@@ -1,0 +1,9 @@
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\bin\x64\Debug\SystemControl.exe.config
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\bin\x64\Debug\SystemControl.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\bin\x64\Debug\SystemControl.pdb
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.csproj.AssemblyReference.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.Properties.Resources.resources
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.csproj.GenerateResource.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.csproj.CoreCompileInputs.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\SystemControl\obj\x64\Debug\SystemControl.pdb

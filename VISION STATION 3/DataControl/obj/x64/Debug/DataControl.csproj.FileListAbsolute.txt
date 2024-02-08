@@ -1,0 +1,9 @@
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\bin\x64\Debug\DataControl.exe.config
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\bin\x64\Debug\DataControl.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\bin\x64\Debug\DataControl.pdb
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.csproj.AssemblyReference.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.Properties.Resources.resources
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.csproj.GenerateResource.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.csproj.CoreCompileInputs.cache
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.exe
+C:\YeTools\PCAPI\Sample\VS2019\VC#.NET\DataControl\obj\x64\Debug\DataControl.pdb
